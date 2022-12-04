@@ -31,6 +31,7 @@ int main()
 
     printf("%d", resultado);
 
+    cin.ignore();
 
 
 }
